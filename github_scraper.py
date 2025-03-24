@@ -12,7 +12,7 @@ for page in range(1, 6):
     url = f"https://github.com/search?p={page}&q=note+taking+ai&type=repositories"
 
     headers = {"User-Agent": "Mozilla/5.0"}
-    time.sleep(2)  # Pause pour éviter l'erreur 429
+    time.sleep(5)  # Pause pour éviter l'erreur 429
 
     try:
         response = requests.get(url, headers=headers)
@@ -22,7 +22,7 @@ for page in range(1, 6):
         continue  # Passer à la page suivante en cas d'erreur
 
     soup = BeautifulSoup(response.text, "html.parser")
-    repos = soup.find_all("li", class_="repo-list-item")
+    repos = soup.find_all("div", class_="Box-row")
 
     for repo in repos:
         title = repo.find("a", class_="v-align-middle").text.strip()
