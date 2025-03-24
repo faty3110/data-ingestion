@@ -1,24 +1,29 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-import time  # <-- Ajout du module time
+import time
+import json
 
-url = "https://github.com/search?q=note+taking+ai&type=repositories"
+# Liste pour stocker toutes les données
+data = []
 
-headers = {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-}
+# Scraper 5 pages de résultats
+for page in range(1, 6):  
+    url = f"https://github.com/search?p={page}&q=note+taking+ai&type=repositories"
 
-# Attendre 2 secondes avant d'envoyer la requête pour éviter l'erreur 429
-time.sleep(2)
+    headers = {"User-Agent": "Mozilla/5.0"}
+    time.sleep(2)  # Pause pour éviter l'erreur 429
 
-response = requests.get(url, headers=headers)
+    try:
+        response = requests.get(url, headers=headers)
+        response.raise_for_status()  # Vérifier si la requête a réussi
+    except requests.exceptions.RequestException as e:
+        print(f"❌ Erreur : {e}")
+        continue  # Passer à la page suivante en cas d'erreur
 
-if response.status_code == 200:
     soup = BeautifulSoup(response.text, "html.parser")
     repos = soup.find_all("li", class_="repo-list-item")
 
-    data = []
     for repo in repos:
         title = repo.find("a", class_="v-align-middle").text.strip()
         link = "https://github.com" + repo.find("a", class_="v-align-middle")["href"]
@@ -27,8 +32,13 @@ if response.status_code == 200:
 
         data.append({"Title": title, "Link": link, "Description": description})
 
-    df = pd.DataFrame(data)
-    df.to_csv("github_repos.csv", index=False)
-    print("✅ Scraping terminé ! Données enregistrées.")
-else:
-    print(f"❌ Erreur {response.status_code} : Impossible d'accéder à GitHub")
+# Sauvegarde en CSV
+df = pd.DataFrame(data)
+df.to_csv("github_repos.csv", index=False)
+
+# Sauvegarde en JSON
+with open("github_repos.json", "w") as json_file:
+    json.dump(data, json_file, indent=4)
+
+print("✅ Scraping terminé pour plusieurs pages !")
+
