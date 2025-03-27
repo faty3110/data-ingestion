@@ -19,5 +19,5 @@ df.to_csv("google_play_apps.csv", index=False)
 with open("google_play_apps.json", "w") as json_file:
     json.dump(data, json_file, indent=4)
 
-print("✅ Données enregistrées dans `google_play_apps.csv` et `google_play_apps.json`")
+print("Données enregistrées dans `google_play_apps.csv` et `google_play_apps.json`")
 

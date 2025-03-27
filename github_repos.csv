@@ -1,1 +1,91 @@
-
+Title,Link,Description,Stars
+briansunter/logseq-plugin-gpt3-openai,https://github.com/briansunter/logseq-plugin-gpt3-openai,A plugin for GPT-3 AI assisted note taking in Logseq,733
+berylliumsec/nebula,https://github.com/berylliumsec/nebula,"AI -powered penetration testing assistant for automating recon, note - taking , and vulnerability analysis.",536
+Dhravya/notty,https://github.com/Dhravya/notty,"An open source, minimal AI powered note taking app and powerful markdown editor",416
+fynnfluegge/rocketnotes,https://github.com/fynnfluegge/rocketnotes,AI -powered markdown note taking app - leverage vector embeddings and LLMs with your knowledge base - 100% local or in the cloud,1.2k
+zeus-12/uxie,https://github.com/zeus-12/uxie,"pdf reader app with note taking , annotations, collaboration, ai features (chat, flashcards generation w. ai -feedbacks), tts and ocr.",139
+SystemSculpt/obsidian-systemsculpt-ai,https://github.com/SystemSculpt/obsidian-systemsculpt-ai,"Enhance your Obsidian App experience with AI -powered tools for note - taking , task management, and much, MUCH more.",123
+Bistard/nota,https://github.com/Bistard/nota,📕Next-Gen AI -powered markdown note - taking application.,72
+A-F-V/obsidian-arcana,https://github.com/A-F-V/obsidian-arcana,Supercharge your Obsidian note - taking through AI -powered insights and suggestions,111
+AnthonyTlei/nextjs-ai-note-app,https://github.com/AnthonyTlei/nextjs-ai-note-app,"An intelligent note taking app built with Clerk, Next.js, OpenAI, Pinecone, Prisma, Shadcn UI and more.",18
+drshahizan/obsidian,https://github.com/drshahizan/obsidian,Obsidian.md stands out as an exceptional note - taking application tailored specifically for academic writing. This repository is part of t…,109
+Francis-Mwaniki/Note-Taking-Ai-Assistance,https://github.com/Francis-Mwaniki/Note-Taking-Ai-Assistance,No description,3
+amadoug2g-zuehlke/AI_Note_Taking,https://github.com/amadoug2g-zuehlke/AI_Note_Taking,Flutter voice note app using Whisper API,5
+soummyaanon/-noteX,https://github.com/soummyaanon/-noteX,"This Is My latest project Using React.js Appwrite ShadCN-Ui,AccernityUi, Framer, TailWindCss this is A Personal Ai Powerd Note taking App…",26
+vasilecampeanu/obsidian-weaver,https://github.com/vasilecampeanu/obsidian-weaver,Weaver is an Obsidian plugin that integrates a ChatGPT-like interface into your note - taking workflow. This plugin makes it easy to access AI,212
+manujainz/notesy-android,https://github.com/manujainz/notesy-android,AI -Based Notes App designed to make the note - taking experience seamless and fluid.,16
+echo-saurav/obsidian-ai-note-suggestion,https://github.com/echo-saurav/obsidian-ai-note-suggestion,"An plugin for Obsidian.md for effortlessly get note suggestions base on semantic meaning as you type, eliminating the need for complex ta…",36
+naturuplift/NoteMindAI,https://github.com/naturuplift/NoteMindAI,NoteMindAI is a note - taking application that integrates AI -driven features to enhance productivity and collaboration. It provides AI -Powe…,6
+abhishekHegde2000/ai-note-app,https://github.com/abhishekHegde2000/ai-note-app,"Developed an AI -powered note - taking application using Next.js 14, ChatGPT API, vector embeddings, Pinecone, TailwindCSS, Shadcn UI, and T…",13
+Meeting-Baas/transcript-seeker,https://github.com/Meeting-Baas/transcript-seeker,"An open-source, browser-based transcript viewer and manager. Upload, transcribe, and chat with meeting recordings using AI . Features meet…",37
+nikogu/note-chat,https://github.com/nikogu/note-chat,Note Chat is a note - taking AI assistant based on LLMs,5
+UNICKCHENG/logseq-ai-assistant,https://github.com/UNICKCHENG/logseq-ai-assistant,A Logseq plugin empowered by AI for effortless note - taking .,7
+OverRaddit/ZettelGPT,https://github.com/OverRaddit/ZettelGPT,Turbocharge Your Note - taking with AI Assistance,21
+AndreDalwin/Whisper2Summarize,https://github.com/AndreDalwin/Whisper2Summarize,Whisper2Summarize is an application that uses Whisper for audio processing and GPT for summarization. It generates summaries of audio tra…,51
+aisemble/MemoMed,https://github.com/aisemble/MemoMed,MemoMed: An AI -Powered Medical Transcription and Note - Taking Tool,7
+muhammadawaisshaikh/Edtech-AI,https://github.com/muhammadawaisshaikh/Edtech-AI,Educational platform utilising Google AI to enhance student learning and note - taking experience. The app will offer features like voice note,12
+wubeshetA/SmartNote,https://github.com/wubeshetA/SmartNote,Generative AI powered Note taking mobile app converts your voice recording or other audio file into short notes and customized questions …,13
+foundation-models/MediNoteAI,https://github.com/foundation-models/MediNoteAI,"MediNote AI transforms medical note - taking with AI , streamlining documentation for efficient, accurate patient records, and freeing up ti…",7
+jparkerweb/pixel-banner,https://github.com/jparkerweb/pixel-banner,"🚩 Enhance your Obsidian notes with customizable banner images, including AI -generated designs and a curated store of downloadable banners…",110
+marmelab/writers-delight,https://github.com/marmelab/writers-delight,A note taking app demonstrating react-admin's AI capabilities,3
+0x77dev/meetingscribe,https://github.com/0x77dev/meetingscribe,"MeetingScribe is an AI -driven command-line tool designed to streamline your meeting experience by handling transcription, translation, and …",53
+acorn-globus/waveflow,https://github.com/acorn-globus/waveflow,Offline Private Local Note Taking & Summary,10
+HarrisonBounds/NotesAI,https://github.com/HarrisonBounds/NotesAI,"Note Taking application that records, transcribes, and summarizes audio into a standard note format.",2
+9Ninety/MCPNotes,https://github.com/9Ninety/MCPNotes,A simple note - taking MCP server for recording and managing notes with AI models.,21
+to-abhinav/ai-note-taking-app-nextjs,https://github.com/to-abhinav/ai-note-taking-app-nextjs,"This intelligent note - taking app, built with Next.js and TypeScript, allows users to create, update, and delete notes . It features an AI …",6
+ZigaoWang/ZapNotesApp,https://github.com/ZigaoWang/ZapNotesApp,"Zap Notes is an AI -powered note - taking application for recording and analyzing thoughts, ideas, and tasks.",27
+awest25/Retainify,https://github.com/awest25/Retainify,"Note - taking app with AI synthesis and spaced repetition (Retain More, Stress Less)",6
+imohammedh/Notevo,https://github.com/imohammedh/Notevo,"Notevo is an AI -powered, real-time note - taking SaaS platform . 🤖✨",3
+doodling-TTI/Doodling,https://github.com/doodling-TTI/Doodling,AI note - taking assistant,0
+enyelsequeira/t3-stack-note-taking-app-ai,https://github.com/enyelsequeira/t3-stack-note-taking-app-ai,No description,7
+nicolodiamante/notefy,https://github.com/nicolodiamante/notefy,"Streamline your note - taking with ChatGPT's AI expertise and Whisper's precise transcription, enabling fast and efficient summarising.",19
+RiP3rQ/AI-Butler,https://github.com/RiP3rQ/AI-Butler,AI -Butler is an innovative project that uses artificial intelligence to act as a virtual assistant. From taking simple notes to providing…,9
+mtchdev/Nota,https://github.com/mtchdev/Nota,AI -powered open source note - taking and todo list desktop application,12
+iwataka/airnote.vim,https://github.com/iwataka/airnote.vim,Simple and fast note - taking plugin for Vim,6
+supernoter/noter,https://github.com/supernoter/noter,"Note taking application, LLM enhanced.",5
+kabirkam/AI-Memorybank,https://github.com/kabirkam/AI-Memorybank,Note taking application powered by Artificial inteligence,1
+yeabnoah/Hope-ai-powered-note-taking-app-,https://github.com/yeabnoah/Hope-ai-powered-note-taking-app-,"an ai powered text and voice note taking app build with dart and typescript, flutter for the mobile app and express for the backend api's",4
+SuperKabman/audioNote,https://github.com/SuperKabman/audioNote,AI enabled notes taking app,3
+alangrainger/obsidian-air-quotes,https://github.com/alangrainger/obsidian-air-quotes,Plugin for Obsidian. Search and insert quotes from a source text as you type. This is great for reading a physical book or eReader while t…,49
+appledore-dev/notes,https://github.com/appledore-dev/notes,Simple note - taking app with writing AI assistant,4
+kapinote/chrome-app,https://github.com/kapinote/chrome-app,"KapiNote is an AI note - taking tool that combines AI technology to provide a variety of note - taking features, making your writing process …",3
+yuna0x0/hackmd-mcp,https://github.com/yuna0x0/hackmd-mcp,A Model Context Protocol server for integrating HackMD's note - taking platform with AI assistants.,14
+kothavade/LectureAI,https://github.com/kothavade/LectureAI,An AI powered tool for quickly reviewing and taking notes on lectures.,6
+ChadMCasey/NoteFlow,https://github.com/ChadMCasey/NoteFlow,NoteFlow is a landing page design for a SaaS company offering a AI -powered note taking application.,6
+HarveyPy-1/AI-chatbot-nextjs-openAI,https://github.com/HarveyPy-1/AI-chatbot-nextjs-openAI,A simple note taking app with a twist. Interact with your notes using AI,4
+solaoi/lycoris,https://github.com/solaoi/lycoris,"Real-time speech recognition & AI -powered note - taking app for macOS with offline/online modes, multilingual transcription, and Japanese t…",31
+Imanm02/LectureNote-ChormeExtension,https://github.com/Imanm02/LectureNote-ChormeExtension,AI -powered Chrome plugin for efficient and focused lecture note - taking,5
+astramieri/oci-ai-foundations,https://github.com/astramieri/oci-ai-foundations,Note - taking repository for OCI AI Foundations,3
+zoyasiddiqui/NoteNinja,https://github.com/zoyasiddiqui/NoteNinja,A note - taking app with python code snippets and AI helpers.,3
+nadelacruz/Note-Taking-App-CLI,https://github.com/nadelacruz/Note-Taking-App-CLI,"The Note Taking App is a powerful CLI for creating, modifying, and deleting notes . You can search by keyword, and generate summaries with…",3
+Chamikajaya/noted-the-ai-powered-note-taking-app,https://github.com/Chamikajaya/noted-the-ai-powered-note-taking-app,AI -powered note - taking assistant . Utilizes OpenAI's API to offer intelligent responses based on stored notes . Seamlessly integrates with…,2
+Uliana200407/AimList-with-tools,https://github.com/Uliana200407/AimList-with-tools,"Let me introduce you my AimList app, which includes features for drawing, timing, and note - taking .",5
+lbrndnr/nutshell-macos,https://github.com/lbrndnr/nutshell-macos,An AI -powered note - taking app for your meetings. Built for macOS using SwiftUI.,6
+auxi-pilot/Auxi-Note,https://github.com/auxi-pilot/Auxi-Note,A note taking app with AI features,2
+gagan257/Brain-Flows,https://github.com/gagan257/Brain-Flows,Intelligent note taking Web App with AI Integration,3
+kaushalsahu07/Note-App,https://github.com/kaushalsahu07/Note-App,Note Taking & Password Manager App Made By AI,2
+chhoumann/auralite,https://github.com/chhoumann/auralite,"AI assistant for Obsidian. Create notes by voice, transcribe speech, and write with AI . Seamlessly integrates with your vault to enhance n…",8
+RainPadjus/VoiceNotesAI,https://github.com/RainPadjus/VoiceNotesAI,VoiceNotesAI is a powerful note - taking app that transcribes voice notes and processes them using AI for meaningful summaries. It's built …,5
+Martons00/PolitoSbobinatore,https://github.com/Martons00/PolitoSbobinatore,A chain of AI models to simplify note - taking at university.,4
+TopDeveloper705/logseq-plugin-gpt3-openai,https://github.com/TopDeveloper705/logseq-plugin-gpt3-openai,A plugin for GPT-3 AI assisted note taking in Logseq,4
+Indu-Chandana/AIdeation-AI,https://github.com/Indu-Chandana/AIdeation-AI,Automatic Note Taking assistant with image generation helps with openAI DALL.E apis,3
+maheshpaulj/NoteScape,https://github.com/maheshpaulj/NoteScape,"NoteScape is a powerful note - taking app featuring bulletins, to-dos, image uploads, and an AI assistant. Built with Next.js 14, Firebase,…",9
+impruthvi/ai-notes,https://github.com/impruthvi/ai-notes,AI Notes is a web application that simplifies note - taking by providing auto-completion for your notes and generating images to enhance your,5
+EvannZhongg/AI-Note,https://github.com/EvannZhongg/AI-Note,A desktop multi-functional note - taking software that can be connected with artificial intelligence,2
+AmeenUrRehman/NotesBrainy,https://github.com/AmeenUrRehman/NotesBrainy,A notes taking tool with AI -Powered Text Summarization and Speech Recognition technology,2
+Delavalom/notion-ai-toolbar-extension,https://github.com/Delavalom/notion-ai-toolbar-extension,AI assistant for your favourite editor/ note - taking app: quickly and easily access AI -driven features,4
+lukehsiao/dot-grid,https://github.com/lukehsiao/dot-grid,Source AI file and PDFs for printing 5mm dot grid note - taking paper.,4
+Scribble-WinterProject/Scribble,https://github.com/Scribble-WinterProject/Scribble,"Scribble is an AI powered note taking application that provide easy notetaking , AI bot to answer all your questions and a place to store…",1
+DugboTek/NoteTakingAI,https://github.com/DugboTek/NoteTakingAI,AI that takes notes for you,1
+BellowAverage/PolarisNote,https://github.com/BellowAverage/PolarisNote,An AI -Enhanced Note - Taking Web Application with Advanced Retrieval-Augmented Generation,2
+priyankasoni930/NoteWave,https://github.com/priyankasoni930/NoteWave,AI voice Note taking app with Chat with youtube video and pdf,2
+vusal5555/Ai-NoteTaking,https://github.com/vusal5555/Ai-NoteTaking,No description,0
+tanaygodse/AI-NoteTaking-App,https://github.com/tanaygodse/AI-NoteTaking-App,CS256 AI Note Taking Project,0
+JumppanenTomi/NoteSnap,https://github.com/JumppanenTomi/NoteSnap,NoteSnap is an advanced note application that not only incorporates fundamental note - taking features but also offers additional functiona…,4
+udaykumar18/AI-Notes-TakingAppFE,https://github.com/udaykumar18/AI-Notes-TakingAppFE,No description,0
+udaykumar18/AI-Notes-TakingApp_API,https://github.com/udaykumar18/AI-Notes-TakingApp_API,No description,0
+TeaghanEveleigh/NOTES.AI,https://github.com/TeaghanEveleigh/NOTES.AI,This is an ai note taking app that generates notes based off a users prompts,2
+wub53/AI_NoteTaking_APP,https://github.com/wub53/AI_NoteTaking_APP,No description,0
+Carsarefast765/note-taking_AI,https://github.com/Carsarefast765/note-taking_AI,No description,0
+hadeebataj/ai-note-taking,https://github.com/hadeebataj/ai-note-taking,No description,0
+BlieSoft-inc/AI-Note-Taking,https://github.com/BlieSoft-inc/AI-Note-Taking,AI Note - taking App (ভয়েস থেকে টেক্সট বা অটোমেটিক সামারি)।,0
